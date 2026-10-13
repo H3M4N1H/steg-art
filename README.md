@@ -23,7 +23,7 @@ To decode: upload the image → get the message back.
 ## Setup
 
 ```bash
-git clone https://github.com/Dreadonyx/steg-art
+git clone https://github.com/H3M4N1H/steg-art
 cd steg-art
 pip install -r requirements.txt
 cp .env.example .env
