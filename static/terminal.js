@@ -1,5 +1,5 @@
 /* terminal.js — steg-art terminal emulator
-   Adapted from Dreadonyx/Linux-command-simulator
+   Adapted from H3M4N1H/Linux-command-simulator
    Steg-only commands: strings binwalk steghide stegseek exiftool xxd file zsteg base64 md5sum sha256sum
 */
 
